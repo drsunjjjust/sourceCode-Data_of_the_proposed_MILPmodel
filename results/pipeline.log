@@ -1,0 +1,430 @@
+[12:39:13] start calib.flag
+450 jobs, 450 to run
+  10/450 done, 37s elapsed
+  20/450 done, 71s elapsed
+  30/450 done, 114s elapsed
+  40/450 done, 154s elapsed
+  50/450 done, 180s elapsed
+  60/450 done, 219s elapsed
+  70/450 done, 258s elapsed
+  80/450 done, 298s elapsed
+  90/450 done, 333s elapsed
+  100/450 done, 368s elapsed
+  110/450 done, 402s elapsed
+[13:18:00] start calib.flag
+450 jobs, 331 to run
+  10/331 done, 32s elapsed
+  20/331 done, 75s elapsed
+  30/331 done, 110s elapsed
+  40/331 done, 173s elapsed
+  50/331 done, 237s elapsed
+  60/331 done, 310s elapsed
+  70/331 done, 382s elapsed
+  80/331 done, 441s elapsed
+  90/331 done, 521s elapsed
+  100/331 done, 587s elapsed
+  110/331 done, 651s elapsed
+  120/331 done, 708s elapsed
+  130/331 done, 767s elapsed
+  140/331 done, 823s elapsed
+  150/331 done, 880s elapsed
+  160/331 done, 932s elapsed
+  170/331 done, 1016s elapsed
+  180/331 done, 1071s elapsed
+  190/331 done, 1107s elapsed
+  200/331 done, 1145s elapsed
+  210/331 done, 1179s elapsed
+  220/331 done, 1216s elapsed
+  230/331 done, 1249s elapsed
+  240/331 done, 1293s elapsed
+  250/331 done, 1328s elapsed
+  260/331 done, 1379s elapsed
+  270/331 done, 1449s elapsed
+  280/331 done, 1523s elapsed
+  290/331 done, 1601s elapsed
+  300/331 done, 1682s elapsed
+  310/331 done, 1750s elapsed
+  320/331 done, 1858s elapsed
+  330/331 done, 1938s elapsed
+  331/331 done, 1939s elapsed
+[13:50:20] done calib.flag
+[13:50:20] start calibsum.flag
+                  mean_rel  max_rel  n_inst  runs
+variant                                          
+q=0.2-0.4           0.0032   0.0101       6    30
+T0=5000.0           0.0037   0.0101       6    30
+lam=0.8             0.0043   0.0152       6    30
+q=0.05-0.35         0.0046   0.0108       6    30
+rho=0.1             0.0052   0.0163       6    30
+restart_ops=250     0.0057   0.0202       6    30
+rho=0.5             0.0058   0.0314       6    30
+alpha=0.99          0.0133   0.0629       6    30
+alpha=0.999         0.0145   0.0386       6    30
+lam=0.3             0.0768   0.4400       6    30
+default             0.0822   0.4399       6    30
+q=0.05-0.2          0.0938   0.5459       6    30
+restart_ops=1000    0.0938   0.5460       6    30
+T0=50.0             0.1695   0.9858       6    30
+restart_ops=0       0.2191   1.2974       6    30
+T0: chosen T0=5000.0 -> 5000.0
+alpha: chosen alpha=0.99 -> 0.99
+rho: chosen rho=0.1 -> 0.1
+lam: chosen lam=0.8 -> 0.8
+q: chosen q=0.2-0.4 -> (0.2, 0.4)
+restart_ops: chosen restart_ops=250 -> 250
+written {'T0': 5000.0, 'alpha': 0.99, 'rho': 0.1, 'lam': 0.8, 'q_min': 0.2, 'q_max': 0.4, 'restart_ops': 250}
+[13:50:21] done calibsum.flag
+[13:50:21] start protoE.flag
+1800 jobs, 1800 to run
+  10/1800 done, 5s elapsed
+  20/1800 done, 10s elapsed
+  30/1800 done, 15s elapsed
+  40/1800 done, 19s elapsed
+  50/1800 done, 23s elapsed
+  60/1800 done, 28s elapsed
+  70/1800 done, 44s elapsed
+  80/1800 done, 61s elapsed
+  90/1800 done, 79s elapsed
+  100/1800 done, 119s elapsed
+  110/1800 done, 160s elapsed
+  120/1800 done, 201s elapsed
+  130/1800 done, 252s elapsed
+  140/1800 done, 305s elapsed
+  150/1800 done, 360s elapsed
+  160/1800 done, 461s elapsed
+  170/1800 done, 566s elapsed
+  180/1800 done, 668s elapsed
+  190/1800 done, 785s elapsed
+  200/1800 done, 924s elapsed
+  210/1800 done, 1070s elapsed
+  220/1800 done, 1239s elapsed
+  230/1800 done, 1420s elapsed
+[14:15:01] start protoE.flag
+1485 jobs, 1293 to run
+  10/1293 done, 178s elapsed
+  20/1293 done, 355s elapsed
+  30/1293 done, 546s elapsed
+  40/1293 done, 592s elapsed
+  50/1293 done, 602s elapsed
+  60/1293 done, 612s elapsed
+  70/1293 done, 619s elapsed
+  80/1293 done, 623s elapsed
+  90/1293 done, 627s elapsed
+  100/1293 done, 640s elapsed
+  110/1293 done, 655s elapsed
+  120/1293 done, 671s elapsed
+  130/1293 done, 708s elapsed
+  140/1293 done, 753s elapsed
+  150/1293 done, 793s elapsed
+  160/1293 done, 842s elapsed
+  170/1293 done, 903s elapsed
+  180/1293 done, 999s elapsed
+  190/1293 done, 1089s elapsed
+  200/1293 done, 1178s elapsed
+  210/1293 done, 1269s elapsed
+  220/1293 done, 1446s elapsed
+  230/1293 done, 1642s elapsed
+  240/1293 done, 1830s elapsed
+  250/1293 done, 2018s elapsed
+  260/1293 done, 2143s elapsed
+  270/1293 done, 2151s elapsed
+  280/1293 done, 2160s elapsed
+  290/1293 done, 2165s elapsed
+  300/1293 done, 2171s elapsed
+  310/1293 done, 2179s elapsed
+  320/1293 done, 2188s elapsed
+  330/1293 done, 2207s elapsed
+  340/1293 done, 2225s elapsed
+  350/1293 done, 2248s elapsed
+  360/1293 done, 2297s elapsed
+  370/1293 done, 2355s elapsed
+  380/1293 done, 2417s elapsed
+  390/1293 done, 2478s elapsed
+  400/1293 done, 2571s elapsed
+  410/1293 done, 2675s elapsed
+  420/1293 done, 2799s elapsed
+  430/1293 done, 2955s elapsed
+  440/1293 done, 3125s elapsed
+  450/1293 done, 3322s elapsed
+  460/1293 done, 3549s elapsed
+  470/1293 done, 3782s elapsed
+  480/1293 done, 4043s elapsed
+  490/1293 done, 4099s elapsed
+  500/1293 done, 4106s elapsed
+  510/1293 done, 4114s elapsed
+  520/1293 done, 4121s elapsed
+  530/1293 done, 4126s elapsed
+  540/1293 done, 4130s elapsed
+  550/1293 done, 4143s elapsed
+  560/1293 done, 4159s elapsed
+  570/1293 done, 4173s elapsed
+  580/1293 done, 4207s elapsed
+  590/1293 done, 4247s elapsed
+  600/1293 done, 4299s elapsed
+  610/1293 done, 4352s elapsed
+  620/1293 done, 4414s elapsed
+  630/1293 done, 4521s elapsed
+  640/1293 done, 4626s elapsed
+  650/1293 done, 4734s elapsed
+  660/1293 done, 4858s elapsed
+  670/1293 done, 5015s elapsed
+  680/1293 done, 5186s elapsed
+  690/1293 done, 5349s elapsed
+  700/1293 done, 5532s elapsed
+  710/1293 done, 5656s elapsed
+  720/1293 done, 5664s elapsed
+  730/1293 done, 5672s elapsed
+  740/1293 done, 5680s elapsed
+  750/1293 done, 5684s elapsed
+  760/1293 done, 5688s elapsed
+  770/1293 done, 5695s elapsed
+  780/1293 done, 5712s elapsed
+  790/1293 done, 5730s elapsed
+  800/1293 done, 5754s elapsed
+  810/1293 done, 5800s elapsed
+  820/1293 done, 5843s elapsed
+  830/1293 done, 5895s elapsed
+  840/1293 done, 5975s elapsed
+  850/1293 done, 6069s elapsed
+  860/1293 done, 6175s elapsed
+  870/1293 done, 6287s elapsed
+  880/1293 done, 6443s elapsed
+  890/1293 done, 6640s elapsed
+  900/1293 done, 6956s elapsed
+  910/1293 done, 7158s elapsed
+  920/1293 done, 7358s elapsed
+  930/1293 done, 7670s elapsed
+  940/1293 done, 7738s elapsed
+  950/1293 done, 7745s elapsed
+  960/1293 done, 7752s elapsed
+  970/1293 done, 7761s elapsed
+  980/1293 done, 7769s elapsed
+  990/1293 done, 7774s elapsed
+  1000/1293 done, 7786s elapsed
+  1010/1293 done, 7799s elapsed
+  1020/1293 done, 7813s elapsed
+  1030/1293 done, 7851s elapsed
+  1040/1293 done, 7898s elapsed
+  1050/1293 done, 7954s elapsed
+  1060/1293 done, 8005s elapsed
+  1070/1293 done, 8059s elapsed
+  1080/1293 done, 8141s elapsed
+  1090/1293 done, 8249s elapsed
+  1100/1293 done, 8360s elapsed
+  1110/1293 done, 8462s elapsed
+  1120/1293 done, 8618s elapsed
+  1130/1293 done, 8790s elapsed
+  1140/1293 done, 8971s elapsed
+  1150/1293 done, 9190s elapsed
+  1160/1293 done, 9510s elapsed
+  1170/1293 done, 10241s elapsed
+  1180/1293 done, 11069s elapsed
+  1190/1293 done, 11819s elapsed
+  1200/1293 done, 12750s elapsed
+  1210/1293 done, 13663s elapsed
+  1220/1293 done, 14575s elapsed
+  1230/1293 done, 15532s elapsed
+  1240/1293 done, 16475s elapsed
+[19:04:10] start protoE.flag
+1485 jobs, 45 to run
+  10/45 done, 1978s elapsed
+  20/45 done, 4576s elapsed
+  30/45 done, 7509s elapsed
+  40/45 done, 10556s elapsed
+  45/45 done, 12183s elapsed
+[22:27:22] done protoE.flag
+[22:27:22] start robust.flag
+180 jobs, 180 to run
+  10/180 done, 179s elapsed
+  20/180 done, 357s elapsed
+  30/180 done, 536s elapsed
+  40/180 done, 756s elapsed
+  50/180 done, 979s elapsed
+  60/180 done, 1194s elapsed
+  70/180 done, 1365s elapsed
+  80/180 done, 1542s elapsed
+  90/180 done, 1721s elapsed
+  100/180 done, 2005s elapsed
+  110/180 done, 2298s elapsed
+  120/180 done, 2596s elapsed
+  130/180 done, 3266s elapsed
+  140/180 done, 3946s elapsed
+  150/180 done, 4607s elapsed
+  160/180 done, 5522s elapsed
+  170/180 done, 6448s elapsed
+  180/180 done, 7334s elapsed
+[00:29:36] done robust.flag
+[00:29:36] start ablation.flag
+175 jobs, 175 to run
+  10/175 done, 174s elapsed
+  20/175 done, 349s elapsed
+  30/175 done, 528s elapsed
+  40/175 done, 782s elapsed
+  50/175 done, 1032s elapsed
+  60/175 done, 1276s elapsed
+  70/175 done, 1571s elapsed
+  80/175 done, 1758s elapsed
+  90/175 done, 1946s elapsed
+  100/175 done, 2120s elapsed
+  110/175 done, 2421s elapsed
+  120/175 done, 2730s elapsed
+  130/175 done, 3034s elapsed
+  140/175 done, 3407s elapsed
+  150/175 done, 4113s elapsed
+  160/175 done, 4811s elapsed
+  170/175 done, 5506s elapsed
+  175/175 done, 6097s elapsed
+[02:11:13] done ablation.flag
+[02:11:13] start len.flag
+90 jobs, 90 to run
+  10/90 done, 101s elapsed
+  20/90 done, 208s elapsed
+  30/90 done, 309s elapsed
+  40/90 done, 420s elapsed
+  50/90 done, 530s elapsed
+  60/90 done, 650s elapsed
+  70/90 done, 802s elapsed
+  80/90 done, 953s elapsed
+  90/90 done, 1117s elapsed
+[02:29:51] done len.flag
+[02:29:51] start usage.flag
+A-1-100 P 1 1821.3729626028087
+A-1-100 P 2 1821.3729626028085
+A-1-100 OSD 1 1821.3729626028087
+A-1-100 OSD 2 1821.3729626028087
+A-1-R-100 P 1 1474.5610031146389
+A-1-R-100 P 2 1478.33064780873
+A-1-R-100 OSD 1 1476.2182983426903
+A-1-R-100 OSD 2 1474.6116020892862
+B-1-R-100 P 1 1576.644991653548
+B-1-R-100 P 2 1592.8032121975245
+B-1-R-100 OSD 1 1578.4042025579365
+B-1-R-100 OSD 2 1576.8378946748678
+A-1-RC-100 P 1 1806.6035094837107
+A-1-RC-100 P 2 1806.4679534602558
+A-1-RC-100 OSD 1 1806.4679534602558
+A-1-RC-100 OSD 2 1806.4679534602558
+A-1-M-200 P 1 3064.9632076044118
+A-1-M-200 P 2 3064.595746895853
+A-1-M-200 OSD 1 3065.802533143383
+A-1-M-200 OSD 2 3065.679291073583
+[02:50:12] done usage.flag
+[02:50:12] start protoT.flag
+738 jobs, 738 to run
+  10/738 done, 5s elapsed
+  20/738 done, 9s elapsed
+  30/738 done, 27s elapsed
+  40/738 done, 68s elapsed
+  50/738 done, 118s elapsed
+  60/738 done, 174s elapsed
+  70/738 done, 276s elapsed
+  80/738 done, 400s elapsed
+  90/738 done, 543s elapsed
+  100/738 done, 723s elapsed
+  110/738 done, 898s elapsed
+  120/738 done, 1092s elapsed
+  130/738 done, 1097s elapsed
+  140/738 done, 1101s elapsed
+  150/738 done, 1117s elapsed
+  160/738 done, 1165s elapsed
+  170/738 done, 1207s elapsed
+  180/738 done, 1259s elapsed
+  190/738 done, 1356s elapsed
+  200/738 done, 1443s elapsed
+  210/738 done, 1539s elapsed
+  220/738 done, 1740s elapsed
+  230/738 done, 1935s elapsed
+  240/738 done, 2118s elapsed
+  250/738 done, 2123s elapsed
+  260/738 done, 2130s elapsed
+  270/738 done, 2147s elapsed
+  280/738 done, 2203s elapsed
+  290/738 done, 2261s elapsed
+  300/738 done, 2319s elapsed
+  310/738 done, 2420s elapsed
+  320/738 done, 2537s elapsed
+  330/738 done, 2697s elapsed
+  340/738 done, 2898s elapsed
+  350/738 done, 3120s elapsed
+  360/738 done, 3371s elapsed
+  370/738 done, 3375s elapsed
+  380/738 done, 3379s elapsed
+  390/738 done, 3394s elapsed
+  400/738 done, 3433s elapsed
+  410/738 done, 3485s elapsed
+  420/738 done, 3539s elapsed
+  430/738 done, 3646s elapsed
+  440/738 done, 3752s elapsed
+  450/738 done, 3871s elapsed
+  460/738 done, 4045s elapsed
+  470/738 done, 4202s elapsed
+  480/738 done, 4388s elapsed
+  490/738 done, 4392s elapsed
+  500/738 done, 4397s elapsed
+  510/738 done, 4415s elapsed
+  520/738 done, 4460s elapsed
+  530/738 done, 4506s elapsed
+  540/738 done, 4584s elapsed
+  550/738 done, 4688s elapsed
+  560/738 done, 4798s elapsed
+  570/738 done, 4957s elapsed
+  580/738 done, 5263s elapsed
+  590/738 done, 5434s elapsed
+  600/738 done, 5741s elapsed
+  610/738 done, 5744s elapsed
+  620/738 done, 5749s elapsed
+  630/738 done, 5763s elapsed
+  640/738 done, 5807s elapsed
+  650/738 done, 5864s elapsed
+  660/738 done, 5911s elapsed
+  670/738 done, 5994s elapsed
+  680/738 done, 6109s elapsed
+  690/738 done, 6209s elapsed
+  700/738 done, 6387s elapsed
+  710/738 done, 6552s elapsed
+  720/738 done, 6776s elapsed
+  730/738 done, 7589s elapsed
+  738/738 done, 8293s elapsed
+[05:08:26] done protoT.flag
+[05:08:26] start sens.flag
+320 jobs, 320 to run
+  10/320 done, 9s elapsed
+  20/320 done, 18s elapsed
+  30/320 done, 22s elapsed
+  40/320 done, 27s elapsed
+  50/320 done, 31s elapsed
+  60/320 done, 39s elapsed
+  70/320 done, 47s elapsed
+  80/320 done, 54s elapsed
+  90/320 done, 58s elapsed
+  100/320 done, 62s elapsed
+  110/320 done, 66s elapsed
+  120/320 done, 71s elapsed
+  130/320 done, 75s elapsed
+  140/320 done, 81s elapsed
+  150/320 done, 85s elapsed
+  160/320 done, 90s elapsed
+  170/320 done, 116s elapsed
+  180/320 done, 137s elapsed
+  190/320 done, 155s elapsed
+  200/320 done, 171s elapsed
+  210/320 done, 187s elapsed
+  220/320 done, 206s elapsed
+  230/320 done, 232s elapsed
+  240/320 done, 251s elapsed
+  250/320 done, 273s elapsed
+  260/320 done, 291s elapsed
+  270/320 done, 310s elapsed
+  280/320 done, 332s elapsed
+  290/320 done, 350s elapsed
+  300/320 done, 370s elapsed
+  310/320 done, 388s elapsed
+  320/320 done, 405s elapsed
+[05:15:12] done sens.flag
+[05:15:12] start qcap.flag
+27 jobs, 27 to run
+  10/27 done, 948s elapsed
+  20/27 done, 1875s elapsed
+  27/27 done, 2664s elapsed
+[05:59:36] done qcap.flag
+[05:59:36] ALL DONE
